@@ -3,7 +3,7 @@
 # Skills expected to be achieved in the end of this Project.
 
 - Scrum
-- Continuous integration
+- Extreme programming / Continuous integration
 - Github
 - Node.js
 - Javascript
